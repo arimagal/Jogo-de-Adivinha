@@ -64,7 +64,7 @@ img {
 JS
 var numeroSecreto = Math.ceil(Math.random() * 1000); 
 var tentativas = 0; 
-var limite = 2; 
+var limite = 8; 
 var chute; 
 
 while (tentativas < limite) { 
